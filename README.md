@@ -1,7 +1,7 @@
 # 📸 SnapTile
 
 <p align="center">
-  <img src="app/src/main/res/drawable/ic_screenshot_tile.xml" width="96" height="96" alt="SnapTile Logo" />
+  <img src="assets/logo.png" width="96" height="96" alt="SnapTile Logo" />
 </p>
 
 <p align="center">
