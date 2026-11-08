@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">SnapTile</string>
+    <string name="tile_label">Ekran Görüntüsü</string>
+    <string name="tile_subtitle_ready">Hazır</string>
+    <string name="tile_subtitle_setup">Kurulum Gerekli</string>
+    <string name="accessibility_service_label">SnapTile Ekran Görüntüsü Servisi</string>
+    <string name="accessibility_service_description">SnapTile, Hızlı Ayarlar panelinden donanım tuşuna ihtiyaç duymadan doğrudan Android sistem ekran görüntüsü almanızı sağlar. Ekran içeriğini okumaz, kaydetmez veya internete iletmez.</string>
+    
+    <string name="app_subtitle">Hızlı Ayarlar ve yüzen buton üzerinden tek dokunuşla ekran görüntüsü alın.</string>
+    <string name="status_title">Sistem Durumu</string>
+    <string name="status_accessibility_title">Erişilebilirlik Servisi</string>
+    <string name="status_active">Aktif</string>
+    <string name="status_disabled">Devre Dışı</string>
+    <string name="status_qs_tile_title">Hızlı Ayarlar</string>
+    <string name="status_qs_instruction">Kurulum Talimatı</string>
+    <string name="status_compatibility_title">Sistem Uyumluluğu</string>
+    <string name="status_supported">Destekleniyor</string>
+    <string name="status_unsupported">Desteklenmiyor (Android 9+ gerekli)</string>
+    
+    <string name="btn_enable_accessibility">Erişilebilirliği Etkinleştir</string>
+    <string name="btn_test_screenshot">Test Ekran Görüntüsü</string>
+    <string name="btn_add_tile_direct">Hızlı Ayarlara Otomatik Ekle</string>
+    
+    <string name="qs_setup_title">Hızlı Ayarlara Ekle</string>
+    <string name="qs_setup_step_1">1. Bildirim panelini iki kez aşağı kaydırın.</string>
+    <string name="qs_setup_step_2">2. Düzenle veya kalem simgesine dokunun.</string>
+    <string name="qs_setup_step_3">3. Kullanılabilir butonlar listesini açın.</string>
+    <string name="qs_setup_step_4">4. SnapTile – Ekran Görüntüsü butonunu bulun.</string>
+    <string name="qs_setup_step_5">5. Butonu aktif Hızlı Ayarlar alanına sürükleyin.</string>
+    <string name="qs_setup_step_6">6. Değişiklikleri kaydedin.</string>
+
+    <!-- Floating Button strings -->
+    <string name="floating_card_title">Yüzen Ekran Butonu</string>
+    <string name="floating_card_desc">Ekranda taşınabilir bir kamera butonu gösterir. Ekranda istediğiniz yere sürükleyebilir, tek dokunuşla ekran görüntüsü alabilirsiniz. Butona basılı tuttuğunuzda çıkan Gizle butonuyla kapatabilir, buradan tekrar açabilirsiniz.</string>
+    <string name="floating_switch_label">Yüzen Butonu Göster</string>
+    <string name="floating_hide_btn">Gizle</string>
+    <string name="floating_notif_channel">SnapTile Yüzen Buton</string>
+    <string name="floating_notif_title">SnapTile Yüzen Buton Aktif</string>
+    <string name="floating_notif_desc">Ekran görüntüsü almak için butona dokunun. Gizlemek için bildirime dokunabilirsiniz.</string>
+    <string name="floating_hidden_toast">Yüzen buton gizlendi. Uygulama içinden tekrar açabilirsiniz.</string>
+    <string name="floating_permission_dialog_title">Üstte Görüntüleme İzni</string>
+    <string name="floating_permission_dialog_desc">Yüzen kameranın diğer uygulamaların üzerinde görünebilmesi için izin vermeniz gerekmektedir.</string>
+    <string name="btn_grant_permission">İzin Ver</string>
+    <string name="btn_cancel">İptal</string>
+    
+    <string name="privacy_title">Gizlilik ve Güvenlik</string>
+    <string name="privacy_point_1">SnapTile ekran içeriğini okumaz veya toplamaz.</string>
+    <string name="privacy_point_2">İnternet izni dahil hiçbir ağ veya depolama izni istemez.</string>
+    <string name="privacy_point_3">Görüntüleri kendisi saklamaz; sistem doğrudan Galeri\'ye kaydeder.</string>
+    <string name="privacy_point_4">Samsung One UI / Android yerel yakalama ve önizleme arayüzü korunur.</string>
+    <string name="privacy_point_5">Erişilebilirlik servisi sadece yerel donanım güç tuşu yerine ekran görüntüsü aksiyonunu tetiklemek için kullanılır.</string>
+
+    <string name="msg_service_disabled">Ekran görüntüsü özelliğini kullanmak için erişilebilirlik servisini etkinleştirin.</string>
+    <string name="msg_screenshot_failed">Ekran görüntüsü alınamadı. Lütfen tekrar deneyin.</string>
+    <string name="msg_screenshot_success">Ekran görüntüsü tetiklendi.</string>
+    <string name="msg_debounce_warning">Lütfen art arda çok hızlı dokunmayın.</string>
+    <string name="msg_tile_request_added">Hızlı Ayarlar paneline ekleme isteği gönderildi.</string>
+</resources>
